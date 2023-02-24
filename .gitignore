@@ -6,7 +6,4 @@
 /www/**
 .DS_Store
 /buildtest
-moodle/**
-moodledata/**
-moodle.env
-moodle-*.tgz
+
